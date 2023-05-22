@@ -1,4 +1,4 @@
-# Custom Device Release Build
+# Custom Device Release Builder
 
 This tool builds the custom device using LabVIEW Command Line Interface and packs the libraries into a .nipkg installer.
 
